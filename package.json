@@ -1,0 +1,6 @@
+{
+  "name": "eslint-plugin-service-rule",
+  "description": "Eslint plugin for service/function return type check.",
+  "version": "1.0.0",
+  "main": "index.js"
+}
